@@ -1,6 +1,6 @@
 package datastructures.lists;
 
-public class SinglyLinkedListTest {
+public class SinglyLinkedListMain {
 
     public static void main(String[] args) {
 
